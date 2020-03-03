@@ -11,7 +11,8 @@ public class Main {
             new SphereArea(),
             new SphereCircumference(),
             new SphereVolume(),
-            new SummationSeries()
+            new SummationSeries(),
+            new CircleCircumference()
     };
 
     public static void main(String[] args) {
