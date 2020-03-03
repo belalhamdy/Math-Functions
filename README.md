@@ -34,7 +34,7 @@ Software Engineering 2 Assignment that helps students to become more familiar wi
 | Ahmed Gamal  | 20170358  | :heavy_check_mark: |
 | Mariam Nasser  | 20170284  | :heavy_check_mark: |
 | Hossam Mohamed  | 20150096  | :heavy_check_mark: |
-| Mohamed Emad  | 20140233  | :heavy_check_mark: |
+| Mohamed Emad  | 20140233  | :heavy_check_mark: (contributed in the second repository) |
 
 
 
